@@ -2,7 +2,7 @@
 
 I'm a passionate **MERN Stack Developer** from Egypt 🌍.
 
----
+--- ر
 
 ## 🚀 About Me:
 - 💻 I specialize in **MERN Stack** (MongoDB, Express, React, Node.js)
